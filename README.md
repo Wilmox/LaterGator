@@ -17,7 +17,7 @@ Currently to use LaterGator you have to do following steps:
 To stop LatorGator, type the following in the console: `LATERGATOR.stop();`
 
 ## Configuration  
-Later Gator allowing you to configure various settings to your preferences. You can edit the configuration options in the config.json file. Some of the available options include:
+Later Gator allowing you to configure various settings to your preferences. You can edit the configuration options at the bottom of the `latergator.js` file. Some of the available options include:
 
 * `batchSize`: How many videos to remove in one iteration, YouTube API has a limit on 200, so going above is useless
 * `waitBetweenBatches`: How long to wait between batches in milliseconds (5 min. recommended) 
