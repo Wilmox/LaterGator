@@ -58,4 +58,5 @@ If you'd like to contribute to LaterGator or ave any ideas for features or impro
 
 ## License & Disclaimer
 LaterGator is released under the **<u>[MIT License](https://opensource.org/licenses/MIT)</u>**.  
+
 The playlist's videos will all be removed by LaterGator. The contents cannot be recovered afterwards! Only use the particular playlist that you wish to empty.
