@@ -56,7 +56,7 @@ and once on line 27.
 
 ## Todos
 - [X] Implement LaterGator
-- [ ] Create LaterGator extention
+- [ ] Create LaterGator extension
 - [ ] ...
 
 ## Contributing  
