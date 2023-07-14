@@ -44,7 +44,7 @@ and once on line 27.
 
 | Language      | Line 23 | Line 27 |
 | ----------- | ----------- | ----------- |
-| English      | "`Action Menu`"       | "`Remove from`"  |
+| English      | "`Action menu`"       | "`Remove from`"  |
 | French      | "`Menu d\'actions`"        | "`Supprimer de`"  |
 | Dutch      | "`Actiemenu`"       | "`Verwijderen uit`"  |
 | German      | "`Aktionsmenü`"        | "`Aus`"  |
